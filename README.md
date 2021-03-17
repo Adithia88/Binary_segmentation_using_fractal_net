@@ -1,6 +1,5 @@
 # Binary-segmentation
 
-# Open-CV for Color Detection 
 
 This is an implementation of Plant segmentation using deep learning fractal-net on Python 3. This code generates masking in every objects in one image.
 
